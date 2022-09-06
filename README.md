@@ -1,4 +1,4 @@
-# HeroSearch Privacy Policy
+# HeroSearch Privacy Policy v1.0
 
 This privacy policy governs your use of the software application HeroSearch (“Application”) for mobile devices that was created by tezcor.com. The Application is used to search heroes and create armies. 
  
